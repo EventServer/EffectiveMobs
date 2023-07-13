@@ -1,0 +1,9 @@
+name: EffectiveMobs
+version: '${version}'
+main: tw.effectivemobs.EffectiveMobs
+api-version: 1.19
+depend:
+  - TeamWars
+
+commands:
+  breeder:
